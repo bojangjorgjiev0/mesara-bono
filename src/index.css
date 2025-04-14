@@ -8,7 +8,8 @@ body {
 .container {
   border: 20px solid transparent;
   padding: 0;
-  border-image: url('/images/brick-frame.png') 30 round;
+ border-image: url('../public/images/brick-frame.png') 30 round;
+
   min-height: 100vh;
   box-sizing: border-box;
   position: relative;
